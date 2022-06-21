@@ -13,6 +13,4 @@ https://github.com/zeux/pugixml
 ## Usage
 > $ ./password_manager vaultFile
 
----
-
 ![screenshot](screenshot.png)
